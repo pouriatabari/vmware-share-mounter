@@ -16,7 +16,7 @@ sudo apt install open-vm-tools open-vm-tools-desktop -y
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/vmware-share-mounter.git
+   git clone https://github.com/pouriatabari/vmware-share-mounter.git
    cd vmware-share-mounter
    ```
 
