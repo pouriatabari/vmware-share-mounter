@@ -1,5 +1,7 @@
 # vmware-share-mounter
 
+<img width="616" height="416" alt="image" src="https://github.com/user-attachments/assets/a9c74ed1-7801-4497-a700-f50b3850e44f" />
+
 Interactive shell script for mounting VMware shared folders in Ubuntu virtual machines.
 
 ## About
