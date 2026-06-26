@@ -40,4 +40,3 @@ sudo mount -t fuse.vmhgfs-fuse .host:/SHARE_NAME /mnt/hgfs/SHARE_NAME -o allow_o
 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-```
